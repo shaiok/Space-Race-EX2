@@ -4,7 +4,7 @@
 Space Race is an exhilarating space-themed game that challenges players to navigate through a cosmic obstacle course. With customizable settings, multiple game modes, and exciting features, players can experience an out-of-this-world gaming adventure on their mobile devices.
 
 ## Specifics
-- **Adjustable number of rows  is 8  and 5 columns.
+- number of rows  is 8  and 5 columns.
 - **Obstacles come at a constant speed in space** (obstacles come towards the player).
 - **Crash notification** - toast message + vibration + sound.
 - **3 Lives** - Game over in 3 lives.
