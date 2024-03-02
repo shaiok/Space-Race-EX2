@@ -23,7 +23,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBq4f60roQ91kk-MqcHvZvPNXOiOtgn64I" />
+            android:value="" />
 
         <activity
             android:name=".HighScoreActivity"
